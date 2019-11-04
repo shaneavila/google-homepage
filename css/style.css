@@ -16,7 +16,7 @@ body {
 }
 
 .apps {
-  background-image: url('images/google-icons.png');
+  background-image: url('/images/google-icons.png');
   background-position: -132px -38px;
   background-size: 528px 68px;
   display: block;
@@ -25,7 +25,7 @@ body {
 }
 
 .profile {
-  background-image: url('images/google-profile.png');
+  background-image: url('/images/google-profile.png');
   border-radius: 50%;
   display: inline-block;
   height: 32px;
